@@ -14,7 +14,7 @@
     <name>mcro-exception-handler</name>
     <description>Exception Handler for Expense Manager</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
